@@ -1,2 +1,6 @@
-# engagement-simple-example
-A simple Ruby script making calls to Engagement API
+# engagement-api.rb
+
+A simple Ruby script making calls to Engagement API.
+
+
+
